@@ -1,0 +1,1275 @@
+*VERSION 3DEXPERIENCER2017x
+*NULL $
+*SEPARATOR ;
+
+*PERSON ssferguson_logan_se;LOGAN INDUSTRIES
++MEMBER LOGAN INDUSTRIES
++ATTRIBUTE First Name;Scott
++ATTRIBUTE Last Name;Ferguson
++ATTRIBUTE Email Address;sferguson_logan_se@keysight.com
+
+*PERSON sferguson_zollner_se;ZOLLNER ELEKTRONIK
++MEMBER ZOLLNER ELEKTRONIK
++ATTRIBUTE First Name;Scott
++ATTRIBUTE Last Name;Ferguson
++ATTRIBUTE Email Address;sferguson_zollner_se@keysight.com
+
+*PERSON sferguson_venture_se;VENTURE MANUFACTURING
++MEMBER VENTURE MANUFACTURING
++ATTRIBUTE First Name;Scott
++ATTRIBUTE Last Name;Ferguson
++ATTRIBUTE Email Address;sferguson_venture_se@keysight.com
++ATTRIBUTE Country;MYS
+
+*PERSON sferguson_celestica_se;CELESTICA
++MEMBER CELESTICA
++ATTRIBUTE First Name;Scott
++ATTRIBUTE Last Name;Ferguson
++ATTRIBUTE Email Address;sferguson_celestica_se@keysight.com
+
+*PERSON JABIL-SE1;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;JABIL
++ATTRIBUTE Last Name;SE1
++ATTRIBUTE Email Address;jabil-se1@jabil.com
+
+*PERSON JABIL-SE2-US;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;JABIL
++ATTRIBUTE Last Name;SE2-US
++ATTRIBUTE Email Address;jabil-se2-us@jabil.com
+
+*PERSON JABIL-SE2;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;JABIL
++ATTRIBUTE Last Name;SE2
++ATTRIBUTE Email Address;jabil-se2@jabil.com
+
+*PERSON msu@atrenne-cs.com;ATRENNE COMPUTING SOLUTIONS
++MEMBER ATRENNE COMPUTING SOLUTIONS
++ATTRIBUTE First Name;Marcie
++ATTRIBUTE Last Name;Su
++ATTRIBUTE Email Address;msu@atrenne-cs.com
+
+*PERSON rrhoads@rosenbergerna.com;ROSENBERGER
++MEMBER ROSENBERGER
++ATTRIBUTE First Name;Randy
++ATTRIBUTE Last Name;Rhoads
++ATTRIBUTE Email Address;rrhoads@rosenbergerna.com
+
+*PERSON kjr@metalfx.com;METALFX
++MEMBER METALFX
++ATTRIBUTE First Name;Ken
++ATTRIBUTE Last Name;Rasmussen
++ATTRIBUTE Email Address;kjr@metalfx.com
++ATTRIBUTE Country;USA
+
+*PERSON eric_parchman@master-precision.com;MASTER PRECISION MACHINING
++MEMBER MASTER PRECISION MACHINING
++ATTRIBUTE First Name;Eric
++ATTRIBUTE Last Name;Parchman
++ATTRIBUTE Email Address;eric_parchman@master-precision.com
+
+*PERSON vknox@sorensoneng.com;SORENSON ENGINEERING
++MEMBER SORENSON ENGINEERING
++ATTRIBUTE First Name;Valerie
++ATTRIBUTE Last Name;Knox
++ATTRIBUTE Email Address;vknox@sorensoneng.com
+
+*PERSON jims@bendatool.com;A&B DIE CASTING
++MEMBER A&B DIE CASTING
++ATTRIBUTE First Name;Jim
++ATTRIBUTE Last Name;Szumlas
++ATTRIBUTE Email Address;jims@bendatool.com
+
+*PERSON casey@swissmicron.com;SWISS-MICRON
++MEMBER SWISS-MICRON
++ATTRIBUTE First Name;Casey
++ATTRIBUTE Last Name;Colliflower
++ATTRIBUTE Email Address;casey@swissmicron.com
+
+*PERSON eleanor_goins@jetronics.com;JETRONICS
++MEMBER JETRONICS
++ATTRIBUTE First Name;Eleanor
++ATTRIBUTE Last Name;Goins
++ATTRIBUTE Email Address;eleanor_goins@jetronics.com
++ATTRIBUTE Country;USA
+
+*PERSON marc@mosinc.com;MOS PLASTICS
++MEMBER MOS PLASTICS
++ATTRIBUTE First Name;Marc
++ATTRIBUTE Last Name;Yang
++ATTRIBUTE Email Address;marc@mosinc.com
+
+*PERSON stephan_stahl@zollner.de;ZOLLNER ELEKTRONIK
++MEMBER ZOLLNER ELEKTRONIK
++ATTRIBUTE First Name;Stephan
++ATTRIBUTE Last Name;Stahl
++ATTRIBUTE Email Address;stephan_stahl@zollner.de
+
+*PERSON dlee@azimuthsemi.com;AZIMUTH INDUSTRIAL
++MEMBER AZIMUTH INDUSTRIAL
++ATTRIBUTE First Name;David
++ATTRIBUTE Last Name;Lee
++ATTRIBUTE Email Address;dlee@azimuthsemi.com
+
+*PERSON shinkichi@satoss.com;SATO MANUFACTURING
++MEMBER SATO MANUFACTURING
++ATTRIBUTE First Name;Shinkichi
++ATTRIBUTE Last Name;Sato
++ATTRIBUTE Email Address;shinkichi@satoss.com
+
+*PERSON t_poovathy@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;T
++ATTRIBUTE Last Name;Poovathy
++ATTRIBUTE Email Address;t_poovathy@jabil.com
+
+*PERSON john.daly@hubersuhner.com;HUBER & SUHNER
++MEMBER HUBER & SUHNER
++ATTRIBUTE First Name;John
++ATTRIBUTE Last Name;Daly
++ATTRIBUTE Email Address;john.daly@hubersuhner.com
++ATTRIBUTE Country;USA
+
+*PERSON peter.wu@venture.com.sg;VENTURE MANUFACTURING
++MEMBER VENTURE MANUFACTURING
++ATTRIBUTE First Name;Peter
++ATTRIBUTE Last Name;Wu
++ATTRIBUTE Email Address;peter.wu@venture.com.sg
++ATTRIBUTE Country;MYS
+
+*PERSON sychian@mdi.com.my;MALAYSIAN DIE-CASTING IND
++MEMBER MALAYSIAN DIE-CASTING IND
++ATTRIBUTE First Name;Law
++ATTRIBUTE Last Name;Sychian
++ATTRIBUTE Email Address;sychian@mdi.com.my
+
+*PERSON allentan@misb.net.my;MACE INSTRUMENTATION
++MEMBER MACE INSTRUMENTATION
++ATTRIBUTE First Name;Tan
++ATTRIBUTE Last Name;Allen
++ATTRIBUTE Email Address;allentan@misb.net.my
+
+*PERSON cmcgrath@amphenolrf.com;AMPHENOL RF
++MEMBER AMPHENOL RF
++ATTRIBUTE First Name;Cathie
++ATTRIBUTE Last Name;McGrath
++ATTRIBUTE Email Address;cmcgrath@amphenolrf.com
++ATTRIBUTE Country;USA
+
+*PERSON ulim@amphenolrf.com;AMPHENOL RF
++MEMBER AMPHENOL RF
++ATTRIBUTE First Name;Lim U
++ATTRIBUTE Last Name;Hwee
++ATTRIBUTE Email Address;ulim@amphenolrf.com
+
+*PERSON siriratj@lpn.hanabk.th.com;HANA MICROELECTRONICS
++MEMBER HANA MICROELECTRONICS
++ATTRIBUTE First Name;Sirirat
++ATTRIBUTE Last Name;J.
++ATTRIBUTE Email Address;siriratj@lpn.hanabk.th.com
++ATTRIBUTE Country;THA
+
+*PERSON titiporns@lpn.hanabk.th.com;HANA MICROELECTRONICS
++MEMBER HANA MICROELECTRONICS
++ATTRIBUTE First Name;Titiporn
++ATTRIBUTE Last Name;S.
++ATTRIBUTE Email Address;titiporns@lpn.hanabk.th.com
++ATTRIBUTE Country;THA
+
+*PERSON soeurn_ses@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Soeurn
++ATTRIBUTE Last Name;ses
++ATTRIBUTE Email Address;soeurn_ses@jabil.com
++ATTRIBUTE Country;USA
+
+*PERSON sheryl@protofab.us;PROTOFAB
++MEMBER PROTOFAB
++ATTRIBUTE First Name;Sheryl
++ATTRIBUTE Last Name;Eiberg
++ATTRIBUTE Email Address;sheryl@protofab.us
++ATTRIBUTE Country;USA
+
+*PERSON thai.minh.nguyen@cokeva.com;COKEVA
++MEMBER COKEVA
++ATTRIBUTE First Name;Thai
++ATTRIBUTE Last Name;Nguyen
++ATTRIBUTE Email Address;thai.minh.nguyen@cokeva.com
++ATTRIBUTE Country;USA
+
+*PERSON mbalakr@celestica.com;CELESTICA
++MEMBER CELESTICA
++ATTRIBUTE First Name;Mohan
++ATTRIBUTE Last Name;Balakrishnan
++ATTRIBUTE Email Address;mbalakr@celestica.com
+
+*PERSON jlm@metalfx.com;METALFX
++MEMBER METALFX
++ATTRIBUTE First Name;Jeanie
++ATTRIBUTE Last Name;Malarich
++ATTRIBUTE Email Address;jlm@metalfx.com
+
+*PERSON satoshi_hagiwara@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Satoshi
++ATTRIBUTE Last Name;Hagiwara
++ATTRIBUTE Email Address;satoshi_hagiwara@jabil.com
++ATTRIBUTE Country;JPN
+
+*PERSON kanetaka.shiori@jp.fujitsu.com;FUJITSU INTERCONNECT TECHNOLOGIES
++MEMBER FUJITSU INTERCONNECT TECHNOLOGIES
++ATTRIBUTE First Name;KANETAKA
++ATTRIBUTE Last Name;SHIORI
++ATTRIBUTE Email Address;kanetaka.shiori@jp.fujitsu.com
++ATTRIBUTE Country;JPN
+
+*PERSON yun_qian@zollner.de;ZOLLNER ELEKTRONIK
++MEMBER ZOLLNER ELEKTRONIK
++ATTRIBUTE First Name;Yun
++ATTRIBUTE Last Name;Qian
++ATTRIBUTE Email Address;yun_qian@zollner.de
++ATTRIBUTE Country;CHN
+
+*PERSON syng@uwcholdings.com;UWC HOLDINGS
++MEMBER UWC HOLDINGS
++ATTRIBUTE First Name;Ng Sze
++ATTRIBUTE Last Name;Yen
++ATTRIBUTE Email Address;syng@uwcholdings.com
++ATTRIBUTE Country;MYS
+
+*PERSON yvette.leong@advaltech.com;ADVAL TECH
++MEMBER ADVAL TECH
++ATTRIBUTE First Name;YVETTE
++ATTRIBUTE Last Name;LEONG
++ATTRIBUTE Email Address;yvette.leong@advaltech.com
+
+*PERSON helge.steffen.kreuels@hubersuhner.com;HUBER & SUHNER
++MEMBER HUBER & SUHNER
++ATTRIBUTE First Name;Helge Steffen
++ATTRIBUTE Last Name;Kreuels
++ATTRIBUTE Email Address;helge.steffen.kreuels@hubersuhner.com
++ATTRIBUTE Country;CHE
+
+*PERSON dziemba@rosenbergerna.com;ROSENBERGER
++MEMBER ROSENBERGER
++ATTRIBUTE First Name;Donna
++ATTRIBUTE Last Name;Ziemba
++ATTRIBUTE Email Address;dziemba@rosenbergerna.com
++ATTRIBUTE Country;USA
+
+*PERSON satoshi_fujii@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Satoshi
++ATTRIBUTE Last Name;Fujii
++ATTRIBUTE Email Address;satoshi_fujii@jabil.com
++ATTRIBUTE Country;JPN
+
+*PERSON hgabriel@celestica.com;CELESTICA
++MEMBER CELESTICA
++ATTRIBUTE First Name;Gabriel
++ATTRIBUTE Last Name;H
++ATTRIBUTE Email Address;hgabriel@celestica.com
+
+*PERSON akira_sugamura@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Akira
++ATTRIBUTE Last Name;Sugamura
++ATTRIBUTE Email Address;akira_sugamura@jabil.com
++ATTRIBUTE Country;JPN
+
+*PERSON mark.lim@hubersuhner.com;HUBER & SUHNER
++MEMBER HUBER & SUHNER
++ATTRIBUTE First Name;Mark
++ATTRIBUTE Last Name;Lim
++ATTRIBUTE Email Address;mark.lim@hubersuhner.com
++ATTRIBUTE Country;MYS
+
+*PERSON gc_teh@psb.com.my;PRODELCON
++MEMBER PRODELCON
++ATTRIBUTE First Name;Geok Chuan
++ATTRIBUTE Last Name;Teh
++ATTRIBUTE Email Address;gc_teh@psb.com.my
++ATTRIBUTE Country;MYS
+
+*PERSON calvin@bendatool.com;A&B DIE CASTING
++MEMBER A&B DIE CASTING
++ATTRIBUTE First Name;Calvin
++ATTRIBUTE Last Name;Leiker
++ATTRIBUTE Email Address;calvin@bendatool.com
++ATTRIBUTE Country;USA
+
+*PERSON dpulido@celestica.com;CELESTICA
++MEMBER CELESTICA
++ATTRIBUTE First Name;Pulido
++ATTRIBUTE Last Name;D
++ATTRIBUTE Email Address;dpulido@celestica.com
+
+*PERSON liem_bui@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Liem
++ATTRIBUTE Last Name;Bui
++ATTRIBUTE Email Address;liem_bui@jabil.com
++ATTRIBUTE Country;USA
+
+*PERSON rnarana@celestica.com;CELESTICA
++MEMBER CELESTICA
++ATTRIBUTE First Name;Ravichandran
++ATTRIBUTE Last Name;Naranan
++ATTRIBUTE Email Address;rnarana@celestica.com
++ATTRIBUTE Country;MYS
+
+*PERSON ngomez@mosinc.com;MOS PLASTICS
++MEMBER MOS PLASTICS
++ATTRIBUTE First Name;Norma
++ATTRIBUTE Last Name;Gomez
++ATTRIBUTE Email Address;ngomez@mosinc.com
++ATTRIBUTE Country;USA
+
+*PERSON yongkhim_teoh@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Yong-Khim
++ATTRIBUTE Last Name;Teoh
++ATTRIBUTE Email Address;yongkhim_teoh@jabil.com
++ATTRIBUTE Country;MYS
+
+*PERSON seakfeng_chung@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Seak-Feng
++ATTRIBUTE Last Name;Chung
++ATTRIBUTE Email Address;seakfeng_chung@jabil.com
++ATTRIBUTE Country;MYS
+
+*PERSON KetYing_Lum@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Ket-Ying
++ATTRIBUTE Last Name;Lum
++ATTRIBUTE Email Address;KetYing_Lum@jabil.com
++ATTRIBUTE;Country;MYS
+
+*PERSON angeline.ng@corazasystems.com.my;CORAZA SYSTEMS
++MEMBER CORAZA SYSTEMS
++ATTRIBUTE First Name;Angeline
++ATTRIBUTE Last Name;Ng
++ATTRIBUTE Email Address;angeline.ng@corazasystems.com.my
++ATTRIBUTE Country;MYS
+
+*PERSON sutou743@oki.com;OKI CIRCUIT TECHNOLOGY
++MEMBER OKI CIRCUIT TECHNOLOGY
++ATTRIBUTE First Name;Hiromi
++ATTRIBUTE Last Name;Sudo
++ATTRIBUTE Email Address;sutou743@oki.com
+
+*PERSON shunsuke_y@yamamoto-h.com;YAMAMOTO MFG
++MEMBER YAMAMOTO MFG
++ATTRIBUTE First Name;Shunsuke
++ATTRIBUTE Last Name;Yamamoto
++ATTRIBUTE Email Address;shunsuke_y@yamamoto-h.com
+
+*PERSON takahashi_y@kk-okayama.co.jp;OKAYAMA
++MEMBER OKAYAMA
++ATTRIBUTE First Name;Yuki
++ATTRIBUTE Last Name;Takahashi
++ATTRIBUTE Email Address;takahashi_y@kk-okayama.co.jp
+
+*PERSON ishida@mac8.co.jp;MAC EIGHT
++MEMBER MAC EIGHT
++ATTRIBUTE First Name;Ryo
++ATTRIBUTE Last Name;Ishida
++ATTRIBUTE Email Address;ishida@mac8.co.jp
+
+*PERSON chaunas@highspeedint.com;HIGH SPEED INTERCONNECTS
++MEMBER HIGH SPEED INTERCONNECTS
++ATTRIBUTE First Name;Chauna
++ATTRIBUTE Last Name;Smith
++ATTRIBUTE Email Address;chaunas@highspeedint.com
+
+*PERSON asakura@din.or.jp;ASAKURA KOGYO
++MEMBER ASAKURA KOGYO
++ATTRIBUTE First Name;Toshiyuki
++ATTRIBUTE Last Name;Asakura
++ATTRIBUTE Email Address;asakura@din.or.jp
+
+*PERSON s-douj@call-inc.co.jp;CALL
++MEMBER CALL
++ATTRIBUTE First Name;Saburou
++ATTRIBUTE Last Name;Doujima
++ATTRIBUTE Email Address;s-douj@call-inc.co.jp
+
+*PERSON satou@tajimi.co.jp;TAJIMI MUSEN
++MEMBER TAJIMI MUSEN
++ATTRIBUTE First Name;Shinichi
++ATTRIBUTE Last Name;Satou
++ATTRIBUTE Email Address;satou@tajimi.co.jp
+
+*PERSON weixian.neoh@venture.com.sg;VENTURE MANUFACTURING
++MEMBER VENTURE MANUFACTURING
++ATTRIBUTE First Name;Wei Xian
++ATTRIBUTE Last Name;Neoh
++ATTRIBUTE Email Address;weixian.neoh@venture.com.sg
+
+*PERSON zurina.s@venture.com.sg;VENTURE MANUFACTURING
++MEMBER VENTURE MANUFACTURING
++ATTRIBUTE First Name;Zurina
++ATTRIBUTE Last Name;S
++ATTRIBUTE Email Address;zurina.s@venture.com.sg
+
+*PERSON liyana.ismail@venture.com.sg;VENTURE MANUFACTURING
++MEMBER VENTURE MANUFACTURING
++ATTRIBUTE First Name;LIYANA
++ATTRIBUTE Last Name;ISMAIL
++ATTRIBUTE Email Address;liyana.ismail@venture.com.sg
+
+
+*PERSON nakajou.tosh-01@jp.fujitsu.com;FUJITSU INTERCONNECT TECHNOLOGIES
++MEMBER FUJITSU INTERCONNECT TECHNOLOGIES
++ATTRIBUTE First Name;TOSHIKI
++ATTRIBUTE Last Name;NAKAJOU
++ATTRIBUTE Email Address;nakajou.tosh-01@jp.fujitsu.com
+
+*PERSON amy.sandlin@ascentron.com;ASCENTRON
++MEMBER ASCENTRON
++ATTRIBUTE First Name;Amy
++ATTRIBUTE Last Name;Sandlin
++ATTRIBUTE Email Address;amy.sandlin@ascentron.com
++ATTRIBUTE Country;USA
+
+*PERSON Glenn.burson@ascentron.com;ASCENTRON
++MEMBER ASCENTRON
++ATTRIBUTE First Name;Glenn
++ATTRIBUTE Last Name;Burson
++ATTRIBUTE Email Address;glenn.burson@ascentron.com
++ATTRIBUTE Country;USA
+
+*PERSON kortiz@rosenbergerna.com;ROSENBERGER
++MEMBER ROSENBERGER
++ATTRIBUTE First Name;Kiara
++ATTRIBUTE Last Name;Ortiz
++ATTRIBUTE Email Address;kortiz@rosenbergerna.com
+
+*PERSON acarr@rosenbergerna.com;ROSENBERGER
++MEMBER ROSENBERGER
++ATTRIBUTE First Name;Annette
++ATTRIBUTE Last Name;Carr
++ATTRIBUTE Email Address;acarr@rosenbergerna.com
+
+*PERSON kl.tan@contraves.com.my;CONTRAVES ADVANCED DEVICES
++MEMBER CONTRAVES ADVANCED DEVICES
++ATTRIBUTE First Name;KL
++ATTRIBUTE Last Name;TAN
++ATTRIBUTE Email Address;kl.tan@contraves.com.my
+
+*PERSON joseph.chow.ty@sam-malaysia.com;SAM PRECISION
++MEMBER SAM PRECISION
++ATTRIBUTE First Name;JOSEPH
++ATTRIBUTE Last Name;CHOW
++ATTRIBUTE Email Address;joseph.chow.ty@sam-malaysia.com
+
+*PERSON hazwan.khairuzzaman@contraves.com.my;CONTRAVES ADVANCED DEVICES
++MEMBER CONTRAVES ADVANCED DEVICES
++ATTRIBUTE First Name;HAZWAN
++ATTRIBUTE Last Name;KHAIRUZZAMAN
++ATTRIBUTE Email Address;hazwan.khairuzzaman@contraves.com.my
+
+*PERSON lc.peng@contraves.com.my;CONTRAVES ADVANCED DEVICES
++MEMBER CONTRAVES ADVANCED DEVICES
++ATTRIBUTE First Name;LC
++ATTRIBUTE Last Name;Peng
++ATTRIBUTE Email Address;lc.peng@contraves.com.my
+
+*PERSON tina@hantek.com;HANTEK ELECTRONIC CO. LTD.
++MEMBER HANTEK ELECTRONIC CO. LTD.
++ATTRIBUTE First Name;Tina
++ATTRIBUTE Last Name;Chen
++ATTRIBUTE Email Address;tina@hantek.com
+
+*PERSON jermend_oong@ceedtec.com;CEEDTEC
++MEMBER CEEDTEC
++ATTRIBUTE First Name;Jermend
++ATTRIBUTE Last Name;Oong
++ATTRIBUTE Email Address;jermend_oong@ceedtec.com
+
+*PERSON cheom@celestica.com;CELESTICA
++MEMBER CELESTICA
++ATTRIBUTE First Name;Noor Hawanis
++ATTRIBUTE Last Name;Binti Che Omar
++ATTRIBUTE Email Address;cheom@celestica.com
+
+*PERSON cy_chin@ceedtec.com;CEEDTEC
++MEMBER CEEDTEC
++ATTRIBUTE First Name;chin chai
++ATTRIBUTE Last Name;yoon
++ATTRIBUTE Email Address;cy_chin@ceedtec.com
+
+*PERSON Lktan@mmm.com;3M
++MEMBER 3M
++ATTRIBUTE First Name;TAN
++ATTRIBUTE Last Name;LK
++ATTRIBUTE Email Address;Lktan@mmm.com
+
+*PERSON PeiLing_Chng@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Pei-Ling
++ATTRIBUTE Last Name;Chng
++ATTRIBUTE Email Address;PeiLing_Chng@jabil.com
+
+*PERSON muhammadfitri.dahri@venture.com.sg;VENTURE MANUFACTURING
++MEMBER VENTURE MANUFACTURING
++ATTRIBUTE First Name;Muhammad Fitri
++ATTRIBUTE Last Name;Bin Dahri
++ATTRIBUTE Email Address;muhammadfitri.dahri@venture.com.sg
+
+*PERSON maveeka_c@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Maveeka
++ATTRIBUTE Last Name;C
++ATTRIBUTE Email Address;maveeka_c@jabil.com
+
+*PERSON teresa.anchondo@ttm.com;TTM TECHNOLOGIES
++MEMBER TTM TECHNOLOGIES
++ATTRIBUTE First Name;Teresa
++ATTRIBUTE Last Name;Anchondo
++ATTRIBUTE Email Address;teresa.anchondo@ttm.com
+
+*PERSON umishahirah.abdullah@venture.com.sg;VENTURE MANUFACTURING
++MEMBER VENTURE MANUFACTURING
++ATTRIBUTE First Name;Abdullah
++ATTRIBUTE Last Name;Umi Shahirah binti
++ATTRIBUTE Email Address;umishahirah.abdullah@venture.com.sg
+
+*PERSON marcel_queffelec@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Queffelec
++ATTRIBUTE Last Name;Marcel
++ATTRIBUTE Email Address;marcel_queffelec@jabil.com
+
+*PERSON rochelle_santos@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Santos
++ATTRIBUTE Last Name;Rochelle
++ATTRIBUTE Email Address;rochelle_santos@jabil.com
+
+*PERSON william_sandow1@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Sandow
++ATTRIBUTE Last Name;William
++ATTRIBUTE Email Address;william_sandow1@jabil.com
+
+*PERSON luis_luna3@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Luna
++ATTRIBUTE Last Name;Luis
++ATTRIBUTE Email Address;luis_luna3@jabil.com
+
+*PERSON jeffrey_cullamco@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Cullamco
++ATTRIBUTE Last Name;Jeffrey
++ATTRIBUTE Email Address;jeffrey_cullamco@jabil.com
+
+*PERSON yiming.tan@venture.com.sg;VENTURE MANUFACTURING
++MEMBER VENTURE MANUFACTURING
++ATTRIBUTE First Name;Tan Yi
++ATTRIBUTE Last Name;Ming
++ATTRIBUTE Email Address;yiming.tan@venture.com.sg
+
+*PERSON adahnia@celestica.com;CELESTICA
++MEMBER CELESTICA
++ATTRIBUTE First Name;Dahnial
++ATTRIBUTE Last Name;Bin A.Azez
++ATTRIBUTE Email Address;adahnia@celestica.com
+
+*PERSON wan_nurleana@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Wan
++ATTRIBUTE Last Name;Nurleana
++ATTRIBUTE Email Address;wan_nurleana@jabil.com
+
+*PERSON omrosana@celestica.com;CELESTICA
++MEMBER CELESTICA
++ATTRIBUTE First Name;Owen
++ATTRIBUTE Last Name;Malacad
++ATTRIBUTE Email Address;omrosana@celestica.com
+
+*PERSON jagatheswari_muniandy@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Jagatheswari
++ATTRIBUTE Last Name;Muniandy
++ATTRIBUTE Email Address;jagatheswari_muniandy@jabil.com
+
+*PERSON nagentheran.m@venture.com.sg;VENTURE MANUFACTURING
++MEMBER VENTURE MANUFACTURING
++ATTRIBUTE First Name;Nagentheran
++ATTRIBUTE Last Name;m
++ATTRIBUTE Email Address;nagentheran.m@venture.com.sg
+
+*PERSON kireev@komztest.ru;KOMZ
++MEMBER KOMZ
++ATTRIBUTE First Name;Ilya
++ATTRIBUTE Last Name;Kireev
++ATTRIBUTE Email Address;kireev@komztest.ru
+
+*PERSON huy.to@ttm.com;TTM TECHNOLOGIES
++MEMBER TTM TECHNOLOGIES
++ATTRIBUTE First Name;To
++ATTRIBUTE Last Name;Huy
++ATTRIBUTE Email Address;huy.to@ttm.com
+
+*PERSON tstallings@azimuthsemi.com;AZIMUTH INDUSTRIAL
++MEMBER AZIMUTH INDUSTRIAL
++ATTRIBUTE First Name;Tessa
++ATTRIBUTE Last Name;Stallings
++ATTRIBUTE Email Address;tstallings@azimuthsemi.com
++ATTRIBUTE Country;USA
+
+*PERSON jussi.niinivaara@sanmina.com;SANMINA-SCI
++MEMBER SANMINA-SCI
++ATTRIBUTE First Name;JUSSI
++ATTRIBUTE Last Name;NIINIVAARA
++ATTRIBUTE Email Address;jussi.niinivaara@sanmina.com
+
+*PERSON skapadia@venturemfg-usa.com;VENTURE MANUFACTURING
++MEMBER VENTURE MANUFACTURING
++ATTRIBUTE First Name;Shamim
++ATTRIBUTE Last Name;Kapadia
++ATTRIBUTE Email Address;skapadia@venturemfg-usa.com
+
+*PERSON kokseong.ng@corazasystems.com.my;CORAZA SYSTEMS
++MEMBER CORAZA SYSTEMS
++ATTRIBUTE First Name;kokseong
++ATTRIBUTE Last Name;ng
++ATTRIBUTE Email Address;kokseong.ng@corazasystems.com.my
+
+*PERSON shaporenko@komztest.ru;KOMZ
++MEMBER KOMZ
++ATTRIBUTE First Name;Ivan
++ATTRIBUTE Last Name;Shaporenko
++ATTRIBUTE Email Address;shaporenko@komztest.ru
+
+*PERSON yuvarajan_subramaniam@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Yuvarajan
++ATTRIBUTE Last Name;Subramaniam
++ATTRIBUTE Email Address;yuvarajan_subramaniam@jabil.com
+
+*PERSON nadhira_natasya@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Nadhira
++ATTRIBUTE Last Name;Natasya
++ATTRIBUTE Email Address;nadhira_natasya@jabil.com
+
+*PERSON aimi_mastura@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Aimi
++ATTRIBUTE Last Name;Mastura
++ATTRIBUTE Email Address;aimi_mastura@jabil.com
+
+*PERSON madihah_zaini@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Madihah
++ATTRIBUTE Last Name;Zaini
++ATTRIBUTE Email Address;madihah_zaini@jabil.com
+
+*PERSON farah_amirah@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Farah
++ATTRIBUTE Last Name;Amirah
++ATTRIBUTE Email Address;farah_amirah@jabil.com
+
+*PERSON shintsyr_ow@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Shin-Tsyr
++ATTRIBUTE Last Name;Ow
++ATTRIBUTE Email Address;shintsyr_ow@jabil.com
+
+*PERSON seakfeng_chung2@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Seak-Feng
++ATTRIBUTE Last Name;Chung
++ATTRIBUTE Email Address;seakfeng_chung2@jabil.com
+
+*PERSON mingwei_jabil_se;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Ming Wei
++ATTRIBUTE Last Name;Wong
++ATTRIBUTE Email Address;mingwei_jabil_se@keysight.com
+
+*PERSON mingwei_venture_se;JABIL CIRCUIT
++MEMBER VENTURE MANUFACTURING
++ATTRIBUTE First Name;Ming Wei
++ATTRIBUTE Last Name;Wong
++ATTRIBUTE Email Address;mingwei_venture_se@keysight.com
+
+*PERSON ekkalaks@lpn.hanabk.th.com;HANA MICROELECTRONICS
++MEMBER HANA MICROELECTRONICS
++ATTRIBUTE First Name;Ekkalak
++ATTRIBUTE Last Name;S.
++ATTRIBUTE Email Address;ekkalaks@lpn.hanabk.th.com
++ATTRIBUTE Country;THA
+
+*PERSON deniselim@aident.com.my;AIDENT
++MEMBER AIDENT
++ATTRIBUTE First Name;DENISE
++ATTRIBUTE Last Name;LIM
++ATTRIBUTE Email Address;deniselim@aident.com.my
+
+*PERSON nobu-sato@satoss.com;SATO MANUFACTURING
++MEMBER SATO MANUFACTURING
++ATTRIBUTE First Name;Nobuyuki
++ATTRIBUTE Last Name;Sato
++ATTRIBUTE Email Address;nobu-sato@satoss.com
+
+*PERSON lisa.ho@multek.com;MULTEK
++MEMBER MULTEK
++ATTRIBUTE First Name;LISA
++ATTRIBUTE Last Name;HO
++ATTRIBUTE Email Address;lisa.ho@multek.com
+
+*PERSON crystal@tennmaxusa.com;TENNMAX AMERICA
++MEMBER TENNMAX AMERICA
++ATTRIBUTE First Name;Crystal
++ATTRIBUTE Last Name;Phillipson
++ATTRIBUTE Email Address;crystal@tennmaxusa.com
+
+*PERSON sales.myamax@amaxprecision.com;MYAMAX PRECISION ENGRG
++MEMBER MYAMAX PRECISION ENGRG
++ATTRIBUTE First Name;SALES
++ATTRIBUTE Last Name;MYAMAX
++ATTRIBUTE Email Address;sales.myamax@amaxprecision.com
+
+*PERSON szolkep@celestica.com;CELESTICA
++MEMBER CELESTICA
++ATTRIBUTE First Name;Syazwani
++ATTRIBUTE Last Name;Azhar
++ATTRIBUTE Email Address;szolkep@celestica.com
+
+*PERSON eakkachair@lpn.hanabk.th.com;HANA MICROELECTRONICS
++MEMBER HANA MICROELECTRONICS
++ATTRIBUTE First Name;Eakka
++ATTRIBUTE Last Name;Chair
++ATTRIBUTE Email Address;eakkachair@lpn.hanabk.th.com
+
+*PERSON munychort_korn@jabil.com -;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Munychort
++ATTRIBUTE Last Name;Korn
++ATTRIBUTE Email Address;munychort_korn@jabil.com
+
+*PERSON nhoang@celestica.com;CELESTICA
++MEMBER CELESTICA
++ATTRIBUTE First Name;HOANG
++ATTRIBUTE Last Name;NGUYEN HUY
++ATTRIBUTE Email Address;nhoang@celestica.com
+
+*PERSON kpetersen@venturemfg-usa.com;VENTURE MANUFACTURING
++MEMBER VENTURE MANUFACTURING
++ATTRIBUTE First Name;Kevin
++ATTRIBUTE Last Name;Petersen
++ATTRIBUTE Email Address;KPetersen@venturemfg-usa.com
+
+*PERSON nurshahida.anwar@venture.com.sg;VENTURE MANUFACTURING
++MEMBER VENTURE MANUFACTURING
++ATTRIBUTE First Name;Nurshahida
++ATTRIBUTE Last Name;Binti Anwar
++ATTRIBUTE Email Address;nurshahida.anwar@venture.com.sg
+
+*PERSON Tomokazu_Mimura@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Tomokazu
++ATTRIBUTE Last Name;Mimura
++ATTRIBUTE Email Address;Tomokazu_Mimura@jabil.com
+
+*PERSON nurkhalida_adibah@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;NurKhalida
++ATTRIBUTE Last Name;Adibah
++ATTRIBUTE Email Address;nurkhalida_adibah@jabil.com
+
+*PERSON ueli@dbsales.com;TENNMAX AMERICA
++MEMBER TENNMAX AMERICA
++ATTRIBUTE First Name;Ueli
++ATTRIBUTE Last Name;Lippuner
++ATTRIBUTE Email Address;ueli@dbsales.com
+
+*PERSON achang@tennvac.com;TENNMAX AMERICA
++MEMBER TENNMAX AMERICA
++ATTRIBUTE First Name;Andy
++ATTRIBUTE Last Name;Chang
++ATTRIBUTE Email Address;achang@tennvac.com
+
+*PERSON mnawawi@celestica.com;CELESTICA
++MEMBER CELESTICA
++ATTRIBUTE First Name;Mohd Ismail Ibrahim
++ATTRIBUTE Last Name;Bin Mohd Nawawi
++ATTRIBUTE Email Address;mnawawi@celestica.com
+
+*PERSON jsamanza@celestica.com;CELESTICA
++MEMBER CELESTICA
++ATTRIBUTE First Name;Jomie S.
++ATTRIBUTE Last Name;Amanza
++ATTRIBUTE Email Address;jsamanza@celestica.com
+
+*PERSON jkanawath@celestica.com;CELESTICA
++MEMBER CELESTICA
++ATTRIBUTE First Name;Jaiganes
++ATTRIBUTE Last Name;Kanawathi
++ATTRIBUTE Email Address;jkanawath@celestica.com
+
+*PERSON nshaadan@celestica.com;CELESTICA
++MEMBER CELESTICA
++ATTRIBUTE First Name;Nor Shuhaida
++ATTRIBUTE Last Name;Shaadan
++ATTRIBUTE Email Address;nshaadan@celestica.com
+
+*PERSON kimfei_chan@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Kim-Fei
++ATTRIBUTE Last Name;Chan
++ATTRIBUTE Email Address;kimfei_chan@jabil.com
+
+*PERSON johanna.asher@hubersuhner.com;HUBER & SUHNER
++MEMBER HUBER & SUHNER
++ATTRIBUTE First Name;Johanna
++ATTRIBUTE Last Name;Asher
++ATTRIBUTE Email Address;johanna.asher@hubersuhner.com
+
+*PERSON phileno@me.com;PRO MOLD
++MEMBER PRO MOLD
++ATTRIBUTE First Name;Phil
++ATTRIBUTE Last Name;Eno
++ATTRIBUTE Email Address;phileno@me.com
++ATTRIBUTE Country;USA
+
+*PERSON kayleigh@tennmaxusa.com;TENNMAX AMERICA
++MEMBER TENNMAX AMERICA
++ATTRIBUTE First Name;Kayleigh
++ATTRIBUTE Last Name;Willard
++ATTRIBUTE Email Address;kayleigh@tennmaxusa.com
+
+*PERSON mnurirfan.jasmon@venture.com.sg;VENTURE MANUFACTURING
++MEMBER VENTURE MANUFACTURING
++ATTRIBUTE First Name;Mnurirfan Nur Irfan bin
++ATTRIBUTE Last Name;Jasmon
++ATTRIBUTE Email Address;mnurirfan.jasmon@venture.com.sg
+
+*PERSON ishikura@hioki.co.jp;HIOKI E E
++MEMBER HIOKI E E
++ATTRIBUTE First Name;Masahito
++ATTRIBUTE Last Name;Ishikura
++ATTRIBUTE Email Address;ishikura@hioki.co.jp
+
+*PERSON diannarohweder@rosenbergerna.com;ROSENBERGER
++MEMBER ROSENBERGER
++ATTRIBUTE First Name;Dianna
++ATTRIBUTE Last Name;Rohweder
++ATTRIBUTE Email Address;diannarohweder@rosenbergerna.com
+
+*PERSON kokseong_ng@misb.net.my;MACE INSTRUMENTATION
++MEMBER MACE INSTRUMENTATION
++ATTRIBUTE First Name;Kok
++ATTRIBUTE Last Name;Seong Ng
++ATTRIBUTE Email Address;kokseong_ng@misb.net.my
+
+*PERSON yokoyan@hioki.co.jp;HIOKI E E
++MEMBER HIOKI E E
++ATTRIBUTE First Name;Osamu
++ATTRIBUTE Last Name;Yokota
++ATTRIBUTE Email Address;yokoyan@hioki.co.jp
+
+*PERSON kjong@cclind.com;CCL DESIGN
++MEMBER CCL DESIGN
++ATTRIBUTE First Name;KJ
++ATTRIBUTE Last Name;Ong
++ATTRIBUTE Email Address;kjong@cclind.com
+
+*PERSON chris.hewson@pemuk.com;POWER ELECTRONIC MEASUREMENTS
++MEMBER POWER ELECTRONIC MEASUREMENTS
++ATTRIBUTE First Name;chris
++ATTRIBUTE Last Name;hewson
++ATTRIBUTE Email Address;chris.hewson@pemuk.com
+
+*PERSON ajadhav_jabil_se;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Amit
++ATTRIBUTE Last Name;Jadhav
++ATTRIBUTE Email Address;amit.jadhav@non.keysight.com
+
+*PERSON ann-ni.pai@ametek.com;COINING
++MEMBER COINING
++ATTRIBUTE First Name;ANN NI
++ATTRIBUTE Last Name;PAI
++ATTRIBUTE Email Address;ann-ni.pai@ametek.com
+
+*PERSON chong@gopsequipment.com;GOPS EQUIPMENT DESIGNER
++MEMBER GOPS EQUIPMENT DESIGNER
++ATTRIBUTE First Name;CHONG
++ATTRIBUTE Last Name;DOREEN
++ATTRIBUTE Email Address;chong@gopsequipment.com
+
+*PERSON jukka.simi@enics.com;ENICS
++MEMBER ENICS
++ATTRIBUTE First Name;Jukka
++ATTRIBUTE Last Name;Simi
++ATTRIBUTE Email Address;jukka.simi@enics.com
+
+*PERSON marko.alakarjula@enics.com;ENICS
++MEMBER ENICS
++ATTRIBUTE First Name;Marko
++ATTRIBUTE Last Name;Alakarjula
++ATTRIBUTE Email Address;marko.alakarjula@enics.com
+
+*PERSON toni.tuomisto@enics.com;ENICS
++MEMBER ENICS
++ATTRIBUTE First Name;Toni
++ATTRIBUTE Last Name;Tuomisto
++ATTRIBUTE Email Address;toni.tuomisto@enics.com
+
+*PERSON maarit.lampela@enics.com;ENICS
++MEMBER ENICS
++ATTRIBUTE First Name;Lampela
++ATTRIBUTE Last Name;Maarit
++ATTRIBUTE Email Address;maarit.lampela@enics.com
+
+*PERSON pirjo.jaakola-grohn@sanmina.com;SANMINA-SCI
++MEMBER SANMINA-SCI
++ATTRIBUTE First Name;Pirjo
++ATTRIBUTE Last Name;Jaakola-Gröhn
++ATTRIBUTE Email Address;pirjo.jaakola-grohn@sanmina.com
++ATTRIBUTE Country;FIN
+
+*PERSON aimo.mielonen@enics.com;ENICS
++MEMBER ENICS
++ATTRIBUTE First Name;Aimo
++ATTRIBUTE Last Name;Mielonen
++ATTRIBUTE Email Address;aimo.mielonen@enics.com
+
+*PERSON lisa.ti@winconn.com;WINCHESTER INTERCONNECT
++MEMBER WINCHESTER INTERCONNECT
++ATTRIBUTE First Name;Lisa
++ATTRIBUTE Last Name;Ti
++ATTRIBUTE Email Address;lisa.ti@winconn.com
+
+*PERSON kahying.seah@winconn.com;WINCHESTER INTERCONNECT
++MEMBER WINCHESTER INTERCONNECT
++ATTRIBUTE First Name;Kahying
++ATTRIBUTE Last Name;Seah
++ATTRIBUTE Email Address;kahying.seah@winconn.com
+
+*PERSON kblee@mrissb.com;M AND R INTEGRATED SOLUTION
++MEMBER M AND R INTEGRATED SOLUTION
++ATTRIBUTE First Name;KB
++ATTRIBUTE Last Name;Lee
++ATTRIBUTE Email Address;kblee@mrissb.com
+
+*PERSON catherine@mrissb.com;M AND R INTEGRATED SOLUTION
++MEMBER M AND R INTEGRATED SOLUTION
++ATTRIBUTE First Name;Catherine
++ATTRIBUTE Last Name;Catherine
++ATTRIBUTE Email Address;catherine@mrissb.com
+
+*PERSON shanon_liew@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Shanon
++ATTRIBUTE Last Name;Liew
++ATTRIBUTE Email Address;shanon_liew@jabil.com
+
+*PERSON syafiq@exzone.com.my;EXZONE PRECISION ENGINEERING
++MEMBER EXZONE PRECISION ENGINEERING
++ATTRIBUTE First Name;Syafiq
++ATTRIBUTE Last Name;Syafiq
++ATTRIBUTE Email Address;syafiq@exzone.com.my
+
+*PERSON sklaw@exzone.com.my;EXZONE PRECISION ENGINEERING
++MEMBER EXZONE PRECISION ENGINEERING
++ATTRIBUTE First Name;Law
++ATTRIBUTE Last Name;Seok Kheng
++ATTRIBUTE Email Address;sklaw@exzone.com.my
+
+*PERSON suvi.huhtala@enics.com;ENICS
++MEMBER ENICS
++ATTRIBUTE First Name;Suvi
++ATTRIBUTE Last Name;Huhtala
++ATTRIBUTE Email Address;suvi.huhtala@enics.com
+
+*PERSON thomas_reitinger_e1zee@zollner.de;ZOLLNER ELEKTRONIK
++MEMBER ZOLLNER ELEKTRONIK
++ATTRIBUTE First Name;Thomas
++ATTRIBUTE Last Name;Reitinger
++ATTRIBUTE Email Address;thomas_reitinger_e1zee@zollner.de
+
+*PERSON paulv@aclaryn.com;ACLARYN PLASTICS
++MEMBER ACLARYN PLASTICS
++ATTRIBUTE First Name;Paul
++ATTRIBUTE Last Name;Verstrate
++ATTRIBUTE Email Address;paulv@aclaryn.com
+
+*PERSON siewnee_teh@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Siew-Nee
++ATTRIBUTE Last Name;Teh
++ATTRIBUTE Email Address;siewnee_teh@jabil.com
++ATTRIBUTE Country;MYS
+
+*PERSON ifikri.baharuddin@venture.com.sg;VENTURE MANUFACTURING
++MEMBER VENTURE MANUFACTURING
++ATTRIBUTE First Name;Izzat Fikri
++ATTRIBUTE Last Name;Baharuddin
++ATTRIBUTE Email Address;ifikri.baharuddin@venture.com.sg
+
+*PERSON alexander_forster@zollner.de;ZOLLNER ELEKTRONIK
++MEMBER ZOLLNER ELEKTRONIK
++ATTRIBUTE First Name;Alexander
++ATTRIBUTE Last Name;Forster
++ATTRIBUTE Email Address;alexander_forster@zollner.de
+
+*PERSON puiyin_ng@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Pui-Yin
++ATTRIBUTE Last Name;Ng
++ATTRIBUTE Email Address;puiyin_ng@jabil.com
+
+*PERSON lili.ng@winconn.com;WINCHESTER INTERCONNECT
++MEMBER WINCHESTER INTERCONNECT
++ATTRIBUTE First Name;Lili
++ATTRIBUTE Last Name;Ng
++ATTRIBUTE Email Address;lili.ng@winconn.com
+
+*PERSON tharveena_thomas@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Thomas
++ATTRIBUTE Last Name;Tharveena
++ATTRIBUTE Email Address;tharveena_thomas@jabil.com
+
+*PERSON raulmoraleja@teydisa.com;TEYDISA - TECNOLOGIA ELECTRONICA Y DESARROLLO INDUSTRIAL
++MEMBER TEYDISA - TECNOLOGIA ELECTRONICA Y DESARROLLO INDUSTRIAL
++ATTRIBUTE First Name;Raul
++ATTRIBUTE Last Name;Moraleja
++ATTRIBUTE Email Address;raulmoraleja@teydisa.com
+
+*PERSON ivancasares@teydisa.com;TEYDISA - TECNOLOGIA ELECTRONICA Y DESARROLLO INDUSTRIAL
++MEMBER TEYDISA - TECNOLOGIA ELECTRONICA Y DESARROLLO INDUSTRIAL
++ATTRIBUTE First Name;Ivan
++ATTRIBUTE Last Name;Casares
++ATTRIBUTE Email Address;ivancasares@teydisa.com
+
+*PERSON sergioalvarez@teydisa.com;TEYDISA - TECNOLOGIA ELECTRONICA Y DESARROLLO INDUSTRIAL
++MEMBER TEYDISA - TECNOLOGIA ELECTRONICA Y DESARROLLO INDUSTRIAL
++ATTRIBUTE First Name;Sergio
++ATTRIBUTE Last Name;Alvarez
++ATTRIBUTE Email Address;sergioalvarez@teydisa.com
+
+*PERSON documentacion@teydisa.com;TEYDISA - TECNOLOGIA ELECTRONICA Y DESARROLLO INDUSTRIAL
++MEMBER TEYDISA - TECNOLOGIA ELECTRONICA Y DESARROLLO INDUSTRIAL
++ATTRIBUTE First Name;ALBERTO
++ATTRIBUTE Last Name;LOPEZ
++ATTRIBUTE Email Address;documentacion@teydisa.com
+
+*PERSON sihah@celestica.com;CELESTICA
++MEMBER CELESTICA
++ATTRIBUTE First Name;Siti Nur Hidayah Binti
++ATTRIBUTE Last Name;Erwinshah
++ATTRIBUTE Email Address;sihah@celestica.com
+
+*PERSON shuichi_inoue@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Shuichi
++ATTRIBUTE Last Name;Inoue
++ATTRIBUTE Email Address;shuichi_inoue@jabil.com
+
+*PERSON uvarajan_kannan@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Uvarajan
++ATTRIBUTE Last Name;Kannan
++ATTRIBUTE Email Address;uvarajan_kannan@jabil.com
+
+*PERSON katie.randall@hubersuhner.com;HUBER & SUHNER
++MEMBER HUBER & SUHNER
++ATTRIBUTE First Name;Katie
++ATTRIBUTE Last Name;Randall
++ATTRIBUTE Email Address;katie.randall@hubersuhner.com
+
+*PERSON jingyann@winconn.com;WINCHESTER INTERCONNECT
++MEMBER WINCHESTER INTERCONNECT
++ATTRIBUTE First Name;Kwong
++ATTRIBUTE Last Name;JingYann
++ATTRIBUTE Email Address;jingyann@winconn.com
+
+*PERSON hannele.kuokkanen@sanmina.com;SANMINA-SCI
++MEMBER SANMINA-SCI
++ATTRIBUTE First Name;Kuokkanen
++ATTRIBUTE Last Name;Hannele
++ATTRIBUTE Email Address;hannele.kuokkanen@sanmina.com
++ATTRIBUTE Country;FIN
+
+*PERSON pia.hinkula@sanmina.com;SANMINA-SCI
++MEMBER SANMINA-SCI
++ATTRIBUTE First Name;Pia
++ATTRIBUTE Last Name;Hinkula
++ATTRIBUTE Email Address;pia.hinkula@sanmina.com
+
+
+*PERSON afrohnmeyer_jabil_se;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Achim
++ATTRIBUTE Last Name;Frohnmeyer
++ATTRIBUTE Email Address;afrohnmeyer_jabil_se@keysight.com
+
+*PERSON afrohnmeyer_multek_se;MULTEK
++MEMBER MULTEK
++ATTRIBUTE First Name;Achim
++ATTRIBUTE Last Name;Frohnmeyer
++ATTRIBUTE Email Address;afrohnmeyer_multek_se@keysight.com
+
+*PERSON afrohnmeyer_multek_se;TTM TECHNOLOGIES
++MEMBER TTM TECHNOLOGIES
++ATTRIBUTE First Name;Achim
++ATTRIBUTE Last Name;Frohnmeyer
++ATTRIBUTE Email Address;afrohnmeyer_multek_se@keysight.com
+
+*PERSON afrohnmeyer_zollner_se;ZOLLNER ELEKTRONIK
++MEMBER ZOLLNER ELEKTRONIK
++ATTRIBUTE First Name;Achim
++ATTRIBUTE Last Name;Frohnmeyer
++ATTRIBUTE Email Address;afrohnmeyer_zollner_se@keysight.com
+
+*PERSON ajadhav_zollner_se;ZOLLNER ELEKTRONIK
++MEMBER ZOLLNER ELEKTRONIK
++ATTRIBUTE First Name;Amit
++ATTRIBUTE Last Name;Jadhav
++ATTRIBUTE Email Address;ajadhav_zollner_se@keysight.com
+
+*PERSON andreas_diewald@zollner.de;ZOLLNER ELEKTRONIK
++MEMBER ZOLLNER ELEKTRONIK
++ATTRIBUTE First Name;Andreas
++ATTRIBUTE Last Name;Diewald
++ATTRIBUTE Email Address;andreas_diewald@zollner.de
+
+*PERSON aothman@celestica.com;CELESTICA
++MEMBER CELESTICA
++ATTRIBUTE First Name;Andreas
++ATTRIBUTE Last Name;Diewald
++ATTRIBUTE Email Address;aothman@celestica.com
+
+*PERSON cpchew@exzone.com.my;EXZONE PRECISION ENGINEERING
++MEMBER EXZONE PRECISION ENGINEERING
++ATTRIBUTE First Name;CHUI PHING
++ATTRIBUTE Last Name;CHEW
++ATTRIBUTE Email Address;cpchew@exzone.com.my
+
+*PERSON harsha@gorillacircuits.com;GORILLA CIRCUITS
++MEMBER GORILLA CIRCUITS
++ATTRIBUTE First Name;Harsha
++ATTRIBUTE Last Name;Reddy
++ATTRIBUTE Email Address;harsha@gorillacircuits.com
+
+*PERSON helmut_kollmaier@zollner.de;ZOLLNER ELEKTRONIKS
++MEMBER ZOLLNER ELEKTRONIKS
++ATTRIBUTE First Name;Harsha
++ATTRIBUTE Last Name;Reddy
++ATTRIBUTE Email Address;helmut_kollmaier@zollner.de
+
+*PERSON joannebeh@kobaytech.com;PARADIGM METAL INDUSTRIES
++MEMBER PARADIGM METAL INDUSTRIES
++ATTRIBUTE First Name;WEN ZHOU
++ATTRIBUTE Last Name;LEE
++ATTRIBUTE Email Address;joannebeh@kobaytech.com
+
+*PERSON kiana@gorillacircuits.com;GORILLA CIRCUITS
++MEMBER GORILLA CIRCUITS
++ATTRIBUTE First Name;Kiana
++ATTRIBUTE Last Name;Ebeling
++ATTRIBUTE Email Address;kiana@gorillacircuits.com
+
+*PERSON masaru_jabil_se;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Masaru
++ATTRIBUTE Last Name;Omiya
++ATTRIBUTE Email Address;masaru_jabil_se@keysight.com
+
+*PERSON masato_jabil_se;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Masaru
++ATTRIBUTE Last Name;Omiya
++ATTRIBUTE Email Address;masato_jabil_se@keysight.com
++ATTRIBUTE Country;JPN
+
+*PERSON mingwei_jabil_se;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Ming Wei
++ATTRIBUTE Last Name;Wong
++ATTRIBUTE Email Address;mingwei_jabil_se@keysight.com
+
+*PERSON mingwei_jabil_se;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Ming Wei
++ATTRIBUTE Last Name;Wong
++ATTRIBUTE Email Address;mingwei_jabil_se@keysight.com
+
+*PERSON mingwei_venture_se;VENTURE MANUFACTURING
++MEMBER VENTURE MANUFACTURING
++ATTRIBUTE First Name;Ming Wei
++ATTRIBUTE Last Name;Wong
++ATTRIBUTE Email Address;mingwei_venture_se@keysight.com
+
+
+*PERSON munychort_korn@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Munychort
++ATTRIBUTE Last Name;Korn
++ATTRIBUTE Email Address;munychort_korn@jabil.com
+
+*PERSON nhigashitani_jabil_se@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Noboru
++ATTRIBUTE Last Name;Higashitani
++ATTRIBUTE Email Address;nhigashitani_jabil_se@jabil.com
+
+*PERSON noor_syahani@jabil.com;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;NOOR
++ATTRIBUTE Last Name;SYAHANI
++ATTRIBUTE Email Address;noor_syahani@jabil.com
+
+*PERSON nuwahid@celestica.com;CELESTICA
++MEMBER CELESTICA
++ATTRIBUTE First Name;Nurain Binti
++ATTRIBUTE Last Name;Ab Wahid
++ATTRIBUTE Email Address;nuwahid@celestica.com
+
+*PERSON rajakumar_zollner_se;ZOLLNER ELEKTRONIK
++MEMBER ZOLLNER ELEKTRONIK
++ATTRIBUTE First Name;RAJAKUMAR
++ATTRIBUTE Last Name;ARUMUGM
++ATTRIBUTE Email Address;rajakumar_zollner_se@keysight.com
+
+*PERSON sharis;EXZONE PRECISION ENGINEERING
++MEMBER EXZONE PRECISION ENGINEERING
++ATTRIBUTE First Name;SHARIS
++ATTRIBUTE Last Name;ABDUL KALIM
++ATTRIBUTE Email Address;sharis@exzone.com.my
+
+*PERSON sri.intan@exzone.com.my;EXZONE PRECISION ENGINEERING
++MEMBER EXZONE PRECISION ENGINEERING
++ATTRIBUTE First Name;SRI INTAN MARDIANA
++ATTRIBUTE Last Name;ZUHBIRIN
++ATTRIBUTE Email Address;sri.intan@exzone.com.my
+
+*PERSON tgries_zollner_se;ZOLLNER ELEKTRONIK
++MEMBER ZOLLNER ELEKTRONIK
++ATTRIBUTE First Name;Thomas
++ATTRIBUTE Last Name;Gries
++ATTRIBUTE Email Address;tgries_zollner_se@keysight.com
++ATTRIBUTE Country;DEU
+
+*PERSON tuan_amirah;JABIL CIRCUIT
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;Tuan
++ATTRIBUTE Last Name;Amirah
++ATTRIBUTE Email Address;tuan_amirah@jabil.com
+
+*PERSON weeseong;CONQUEST ELECTRONICS
++MEMBER CONQUEST ELECTRONICS
++ATTRIBUTE First Name;Wee Seong
++ATTRIBUTE Last Name;Kang
++ATTRIBUTE Email Address;weeseong@conquestelec.com

@@ -1,0 +1,376 @@
+*VERSION 3DEXPERIENCER2017x
+*NULL $
+*SEPARATOR ;
+
+*PERSON AQE-1;Keysight Technologies
++ATTRIBUTE Email Address;AQE-1@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;AQE
++ATTRIBUTE Last Name;-1
+
+*PERSON AQE-2;Keysight Technologies
++ATTRIBUTE Email Address;AQE-2@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;AQE
++ATTRIBUTE Last Name;-2
+
+*PERSON SCC-1;Keysight Technologies
++ATTRIBUTE Email Address;SCC-1@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SCC
++ATTRIBUTE Last Name;-1
+
+*PERSON SCC-2;Keysight Technologies
++ATTRIBUTE Email Address;SCC-2@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SCC
++ATTRIBUTE Last Name;-2
+
+*PERSON CE-1;Keysight Technologies
++ATTRIBUTE Email Address;CE-1@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;CE
++ATTRIBUTE Last Name;-1
+
+*PERSON CE-2;Keysight Technologies
++ATTRIBUTE Email Address;CE-2@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;CE
++ATTRIBUTE Last Name;-2
+
+*PERSON CM-1;Keysight Technologies
++ATTRIBUTE Email Address;CM-1@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;Contact
++ATTRIBUTE Last Name;Management
+
+*PERSON CompanyAdmin-1;Keysight Technologies
++ATTRIBUTE Email Address;CompanyAdmin-1@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;CompanyAdmin
++ATTRIBUTE Last Name;-1
+
+*PERSON CompanyAdmin-2;Keysight Technologies
++ATTRIBUTE Email Address;CompanyAdmin-2@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;CompanyAdmin
++ATTRIBUTE Last Name;-2
+
+*PERSON ComplianceAdmin-1;Keysight Technologies
++ATTRIBUTE Email Address;ComplianceAdmin-1@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;ComplianceAdmin
++ATTRIBUTE Last Name;-1
+
+*PERSON ComplianceAdmin-2;Keysight Technologies
++ATTRIBUTE Email Address;ComplianceAdmin-2@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;ComplianceAdmin
++ATTRIBUTE Last Name;-2
+
+*PERSON DE-1;Keysight Technologies
++ATTRIBUTE Email Address;DE-1@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;DE
++ATTRIBUTE Last Name;-1
+
+*PERSON DE-2;Keysight Technologies
++ATTRIBUTE Email Address;DE-2@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;DE
++ATTRIBUTE Last Name;-2
+
+*PERSON EMP-1;Keysight Technologies
++ATTRIBUTE Email Address;EMP-1@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;EMP
++ATTRIBUTE Last Name;-1
+
+*PERSON EMP-2;Keysight Technologies
++ATTRIBUTE Email Address;EMP-2@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;EMP
++ATTRIBUTE Last Name;-2
+
+*PERSON JABIL-NONTSR;JABIL CIRCUIT
++ATTRIBUTE Email Address;JABIL-NONTSR@keysight.com
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;JABIL
++ATTRIBUTE Last Name;NONTSR
+
+*PERSON JABIL-SE;JABIL CIRCUIT
++ATTRIBUTE Email Address;JABIL-SE@keysight.com
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;JABIL
++ATTRIBUTE Last Name;SE
+
+*PERSON JABIL-SE1;JABIL CIRCUIT
++ATTRIBUTE Email Address;JABIL-SE1@keysight.com
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;JABIL
++ATTRIBUTE Last Name;SE1
+
+*PERSON JABIL-SE2;JABIL CIRCUIT
++ATTRIBUTE Email Address;JABIL-SE2@keysight.com
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;JABIL
++ATTRIBUTE Last Name;SE2
+
+*PERSON JABIL-SREP;JABIL CIRCUIT
++ATTRIBUTE Email Address;JABIL-SREP@keysight.com
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;JABIL
++ATTRIBUTE Last Name;SREP
+
+*PERSON JABIL-TSR;JABIL CIRCUIT
++ATTRIBUTE Email Address;JABIL-TSR@keysight.com
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;JABIL
++ATTRIBUTE Last Name;TSR
+
+*PERSON LC-1;Keysight Technologies
++ATTRIBUTE Email Address;LC-1@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;LC
++ATTRIBUTE Last Name;-1
+
+*PERSON METALFX-SE1;METALFX
++ATTRIBUTE Email Address;METALFX-SE1@keysight.com
++MEMBER METALFX
++ATTRIBUTE First Name;METALFX
++ATTRIBUTE Last Name;SE1
+
+*PERSON NPIC-1;Keysight Technologies
++ATTRIBUTE Email Address;NPIC-1@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;NPIC
++ATTRIBUTE Last Name;-1
+
+*PERSON NPIC-2;Keysight Technologies
++ATTRIBUTE Email Address;NPIC-2@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;NPIC
++ATTRIBUTE Last Name;-
+
+*PERSON OM-1;Keysight Technologies
++ATTRIBUTE Email Address;OM-1@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;OM
++ATTRIBUTE Last Name;-1
+
+*PERSON OM-2;Keysight Technologies
++ATTRIBUTE Email Address;OM-2@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;OM
++ATTRIBUTE Last Name;-2
+
+*PERSON POM-1;Keysight Technologies
++ATTRIBUTE Email Address;POM-1@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;POM
++ATTRIBUTE Last Name;-1
+
+*PERSON POM-2;Keysight Technologies
++ATTRIBUTE Email Address;POM-2@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;POM
++ATTRIBUTE Last Name;-2
+
+*PERSON SCE-1;Keysight Technologies
++ATTRIBUTE Email Address;SCE-1@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SCE
++ATTRIBUTE Last Name;-1
+
+*PERSON SCE-2;Keysight Technologies
++ATTRIBUTE Email Address;SCE-2@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SCE
++ATTRIBUTE Last Name;-2
+
+*PERSON SDE-COS;Keysight Technologies
++ATTRIBUTE Email Address;SDE-COS@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SDE
++ATTRIBUTE Last Name;COS
+
+*PERSON SDE-BBN;Keysight Technologies
++ATTRIBUTE Email Address;SDE-BBN@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SDE
++ATTRIBUTE Last Name;BBN
+
+*PERSON SDE-HCH;Keysight Technologies
++ATTRIBUTE Email Address;SDE-HCH@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SDE
++ATTRIBUTE Last Name;HCH
+
+*PERSON SDE-PNG;Keysight Technologies
++ATTRIBUTE Email Address;SDE-PNG@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SDE
++ATTRIBUTE Last Name;PNG
+
+*PERSON SDE-SCS;Keysight Technologies
++ATTRIBUTE Email Address;SDE-SCS@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SDE
++ATTRIBUTE Last Name;SCS
+
+*PERSON SDE-TLO;Keysight Technologies
++ATTRIBUTE Email Address;SDE-SCS@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SDE
++ATTRIBUTE Last Name;TLO
+
+*PERSON SDE-SGP;Keysight Technologies
++ATTRIBUTE Email Address;SDE-SGP@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SDE
++ATTRIBUTE Last Name;SGP
+
+*PERSON SDE-SRS;Keysight Technologies
++ATTRIBUTE Email Address;SDE-SRS@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SDE
++ATTRIBUTE Last Name;SRS
+
+*PERSON SDE-EDI;Keysight Technologies
++ATTRIBUTE Email Address;SDE-EDI@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SDE
++ATTRIBUTE Last Name;EDI
+
+*PERSON SDE-OPTICS-1;Keysight Technologies
++ATTRIBUTE Email Address;SDE-OPTICS-1@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SDE
++ATTRIBUTE Last Name;-OPTICS-1
+
+*PERSON SDE-SND-1;Keysight Technologies
++ATTRIBUTE Email Address;SDE-SND-1@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SDE
++ATTRIBUTE Last Name;-SND-1
+
+*PERSON SME-1;Keysight Technologies
++ATTRIBUTE Email Address;SME-1@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SME
++ATTRIBUTE Last Name;-1
+
+*PERSON SME-2;Keysight Technologies
++ATTRIBUTE Email Address;SME-2@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SME
++ATTRIBUTE Last Name;-2
+
+*PERSON SuperTIS-1;Keysight Technologies
++ATTRIBUTE Email Address;SuperTIS-1@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SuperTIS
++ATTRIBUTE Last Name;-1
+
+*PERSON SuperTIS-2;Keysight Technologies
++ATTRIBUTE Email Address;SuperTIS-2@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SuperTIS
++ATTRIBUTE Last Name;-2
+
+*PERSON SuperTIS-3;Keysight Technologies
++ATTRIBUTE Email Address;SuperTIS-3@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SuperTIS
++ATTRIBUTE Last Name;-3
+
+*PERSON SuperTIS-4;Keysight Technologies
++ATTRIBUTE Email Address;SuperTIS-4@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SuperTIS
++ATTRIBUTE Last Name;-4
+
+*PERSON SuperTIS-5;Keysight Technologies
++ATTRIBUTE Email Address;SuperTIS-5@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SuperTIS
++ATTRIBUTE Last Name;-5
+
+*PERSON Test-China;Keysight Technologies
++ATTRIBUTE Email Address;Test-China@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;Test
++ATTRIBUTE Last Name;China
+
+*PERSON VENTURE-SE;VENTURE MANUFACTURING
++ATTRIBUTE Email Address;VENTURE-SE@keysight.com
++MEMBER VENTURE MANUFACTURING
++ATTRIBUTE First Name;VENTURE
++ATTRIBUTE Last Name;SE
+
+*PERSON SDE-MCAD-ADMIN;Keysight Technologies
++ATTRIBUTE Email Address;SDE-MCAD-ADMIN@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SDE
++ATTRIBUTE Last Name;-MCAD-ADMIN
+
+*PERSON MEU-1;Keysight Technologies
++ATTRIBUTE Email Address;MEU-1@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;MEU
++ATTRIBUTE Last Name;-1
+
+*PERSON MEU-2;Keysight Technologies
++ATTRIBUTE Email Address;MEU-2@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;MEU
++ATTRIBUTE Last Name;-2
+
+*PERSON SDE-SND-1-US;Keysight Technologies
++ATTRIBUTE Email Address;SDE-SND-1-US@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SDE-SND-1
++ATTRIBUTE Last Name;-US
+
+*PERSON SDE-OPTICS-1-US;Keysight Technologies
++ATTRIBUTE Email Address;SDE-OPTICS-1-US@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SDE-OPTICS-1
++ATTRIBUTE Last Name;-US
+
+*PERSON SDE-SND-2;Keysight Technologies
++ATTRIBUTE Email Address;SDE-SND-2@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SDE-SND
++ATTRIBUTE Last Name;-2
+
+*PERSON SDE-OPTICS-2;Keysight Technologies
++ATTRIBUTE Email Address;SDE-OPTICS-2@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SDE-OPTICS
++ATTRIBUTE Last Name;-2
+
+*PERSON SDE-CHN;Keysight Technologies
++ATTRIBUTE Email Address;SDE-CHN@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;SDE-
++ATTRIBUTE Last Name;CHN
+
+*PERSON NPIC-2-US;Keysight Technologies
++ATTRIBUTE Email Address;NPIC-2-US@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;NPIC-2-
++ATTRIBUTE Last Name;US
+
+*PERSON NPIC-3-US;Keysight Technologies
++ATTRIBUTE Email Address;NPIC-3-US@keysight.com
++MEMBER Keysight Technologies
++ATTRIBUTE First Name;NPIC-3-
++ATTRIBUTE Last Name;US
+
+*PERSON JABIL-SE2-US;JABIL CIRCUIT
++ATTRIBUTE Email Address;JABIL-SE2-US@keysight.com
++MEMBER JABIL CIRCUIT
++ATTRIBUTE First Name;JABIL
++ATTRIBUTE Last Name;SE2-US
+
